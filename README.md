@@ -1,2 +1,2 @@
 # deeplearing
-matlab for deep learning on shape
+This file is to let the tensorflow can apply the mat files.
